@@ -1,1 +1,1 @@
-# guessing-game
+# Mastermind Game
